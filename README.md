@@ -19,3 +19,6 @@ This project analyzes real estate market trends using Power BI.
 
 ## Dataset
 (Add dataset details)
+## Dashboard Preview
+
+![Dashboard Screenshot](image-name.png)
