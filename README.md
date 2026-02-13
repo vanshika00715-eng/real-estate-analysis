@@ -1,2 +1,3 @@
-# real-estate-analysis
-Real Estate Market Analysis Dashboard using Power BI
+##  Dashboard Preview
+
+![Dashboard Screenshot](image-name.png)
